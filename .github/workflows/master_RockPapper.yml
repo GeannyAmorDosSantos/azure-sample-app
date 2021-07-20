@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'RockPapper'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_71caa10bef6b4e31804d110fa7f4fed2 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b3451e39241043ba9f537ce34d8d23f7 }}
         package: .
